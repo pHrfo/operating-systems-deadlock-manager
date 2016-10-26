@@ -9,7 +9,7 @@ public class Main {
 		processList.add(0); processList.add(1); processList.add(2);
 		
 		ArrayList<Integer> available = new ArrayList<>();
-		available.add(9); available.add(4); available.add(6);
+		available.add(10); available.add(5); available.add(6);
 		
 		ArrayList<Integer> alloc0 = new ArrayList<>();
 		alloc0.add(3); alloc0.add(1); alloc0.add(0);
